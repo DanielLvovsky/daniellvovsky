@@ -31,7 +31,6 @@
 [<img align="left" alt="SCSS" width="48px" src="https://img.icons8.com/color/48/000000/sass-avatar.png" />][website]
 [<img align="left" alt="JavaScript" width="48px" src="https://img.icons8.com/color/48/000000/javascript.png" />][website]
 [<img align="left" alt="React" width="48px" src="https://img.icons8.com/color/48/000000/react-native.png" />][website]
-[<img align="left" alt="Gatsby" width="48px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][website]
 [<img align="left" alt="Firebase" width="48px" src="https://img.icons8.com/color/48/000000/firebase.png" />][website]
 [<img align="left" alt="Node.js" width="48px" src="https://img.icons8.com/color/48/000000/nodejs.png" />][website]
 [<img align="left" alt="GitHub" width="48px" src="https://img.icons8.com/fluent/48/000000/github.png" />][website]
@@ -40,10 +39,10 @@
 
 ### Design Tools:
 
-[<img align="left" alt="Adobe XD" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobexd.svg" />][website]
-
-[<img align="left" alt="Adobe Illustrator" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobeillustrator.svg" />][website]
-[<img align="left" alt="Affinity Designer" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/affinitydesigner.svg" />][website]
+[<img align="left" alt="Adobe XD" width="48px" src="https://img.icons8.com/color/48/000000/adobe-xd.png" />][website]
+[<img align="left" alt="Adobe Illustrator" width="48px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" />][website]
+[<img align="left" alt="Affinity Designer" width="48px" src="https://img.icons8.com/ios-filled/50/000000/affinity-photo.png" />][website]
+[<img align="left" alt="Invision Studio" width="48px" src="https://img.icons8.com/windows/64/000000/invision.png" />][website]
 
 <br />
 <br />
