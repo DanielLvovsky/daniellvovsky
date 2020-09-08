@@ -91,7 +91,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="DanielLvovsky's Github Stats" src="https://github-readme-stats.daniellvovsky.vercel.app/api?username=DanielLvovsky&show_icons=true&hide_border=true" />
+  <img align="left" alt="DanielLvovsky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DanielLvovsky" />
 
 </details>
 
