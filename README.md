@@ -8,7 +8,7 @@
 - <img align="center" alt="Hello | Hello" width="20" src="https://img.icons8.com/color/20/000000/approve-and-update.png" /> I’m currently improving my Chrome Extension: [DIAL][extension].
 - 🎯 Learning React.js and Firebase.
 - 🎯 Planning on starting a Twitch channel.
-- 🎯 2020 Goals: Contribute to Open Source projects and Improve web development skills.
+- 🎯 2020 Goals: Contribute to Open Source projects and improve web development skills.
 - 💡 About me: I love playing video games, chess and creating illustrations.
 
 ### Music [<img align="center" alt="spotify | Spotify" width="48px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
@@ -68,7 +68,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLvovsky&layout=compact)](https://github.com/DanielLvovsky)
 
 
----
+
 
 
 [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=DanielLvovsky&theme=nord&show_icons=true)](https://github.com/DanielLvovsky)
