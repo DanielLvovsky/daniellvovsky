@@ -65,11 +65,14 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLvovsky)]
+
+---
 
 <details>
   <summary><img align="center" alt="spotify | Spotify" width="24px" src="https://img.icons8.com/fluent/24/000000/bar-chart.png" /> Github Stats</summary>
 
-  <img align="left" alt="DanielLvovsky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DanielLvovsky" />
+  <img align="left" alt="DanielLvovsky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DanielLvovsky&show_icons=true&theme=radical" />
 
 </details>
 
