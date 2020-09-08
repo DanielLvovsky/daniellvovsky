@@ -5,11 +5,11 @@
 
 ## I'm a UI/Graphic Designer and Web Developer
 
-- 🔭 I’m currently working on my Chrome Extension: [DIAL][extension]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🎯 I’m currently improving my Chrome Extension: [DIAL][extension]!
+- 🎯 Learning React.js and Firebase
+- 🎯 Planning on starting a Twitch channel.
+- 🎯 2020 Goals: Contribute to Open Source projects and Improve web development skills
+- 💡 Fun fact: I love playing video games, chess and pasta.
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2aolsolnndhc7gontaq2ujdth&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=2aolsolnndhc7gontaq2ujdth&redirect=true)
