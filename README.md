@@ -53,15 +53,15 @@
 
 ### <img align="center" alt="spotify | Spotify" width="36px" src="https://img.icons8.com/fluent/36/000000/project.png" /> Latest Projects 
 
-<!-- YOUTUBE:START -->
+<!-- Project:START -->
 - [Personal Portfolio](https://daniellvovsky.com/)
-- [0 to 70K SUBSCRIBERS in 1 YEAR | YouTube 2020: The strategies that helped me to grow on YouTube](https://www.youtube.com/watch?v=oNGZ7h5LR-o)
-- [How To Build A React App w/ Hooks & Airtable API | styled-components | Code Quality Check](https://www.youtube.com/watch?v=FEoEvSmtmPQ)
-- [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/watch?v=4adVM33GAlA)
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
-<!-- YOUTUBE:END -->
+- [Artist Portfolio](https://steftheartist.netlify.app/)
+- [DIAL - Custom New Tab](https://chrome.google.com/webstore/detail/new-tab-dial/jhcadhkfandbknkhibmfojeibbgjehmn?hl=en&authuser=0)
+- [Listify - ToDo List for Chrome](https://chrome.google.com/webstore/detail/todo-listlistify/mlighlkbfofpeoeolijmolchjdifcbpo?hl=en&authuser=0)
+- [QuickUnsplash - Unsplash Extension](https://chrome.google.com/webstore/detail/quick-unsplash/bcehcdieplbonpeognpgfkpldfknbgkh?hl=en-US)
+<!-- Project:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more projects...](https://daniellvovsky.com/)
 
 ---
 
