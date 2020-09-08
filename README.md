@@ -5,7 +5,7 @@
 
 ## I'm a UI/Graphic Designer and Web Developer
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on my Chrome Extension: [DIAL][extension]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -96,6 +96,7 @@
 </details>
 
 [website]: https://daniellvovsky.com
+[extension]: https://chrome.google.com/webstore/detail/new-tab-dial/jhcadhkfandbknkhibmfojeibbgjehmn?hl=en&authuser=0
 [behance]: https://www.behance.net/daniel_lvovsky
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/daniel_lvovsky
