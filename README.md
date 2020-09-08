@@ -65,9 +65,9 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLvovsky)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLvovsky&layout=compact)](https://github.com/DanielLvovsky)
 
----
+
 
 <details>
   <summary><img align="center" alt="spotify | Spotify" width="24px" src="https://img.icons8.com/fluent/24/000000/bar-chart.png" /> Github Stats</summary>
