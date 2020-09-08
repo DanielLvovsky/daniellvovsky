@@ -74,6 +74,17 @@
 [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=DanielLvovsky&theme=nord&show_icons=true)](https://github.com/DanielLvovsky)
 
 
+
+---
+### My Repos:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielLvovsky&repo=StefTheArtist&theme=nord)](https://github.com/DanielLvovsky/StefTheArtist)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielLvovsky&repo=QuickUnsplash&theme=nord)](https://github.com/DanielLvovsky/QuickUnsplash)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielLvovsky&repo=DIAL&theme=nord)](https://github.com/DanielLvovsky/DIAL)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielLvovsky&repo=Listify&theme=nord)](https://github.com/DanielLvovsky/Listify)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielLvovsky&repo=InstagramBot&theme=nord)](https://github.com/DanielLvovsky/InstagramBot)
+
+
 [website]: https://daniellvovsky.com
 [spotify]: https://open.spotify.com/playlist/0Vc9v8CbKciq75y2x7dMP5
 [extension]: https://chrome.google.com/webstore/detail/new-tab-dial/jhcadhkfandbknkhibmfojeibbgjehmn?hl=en&authuser=0
