@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2aolsolnndhc7gontaq2ujdth&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=2aolsolnndhc7gontaq2ujdth&redirect=true)
 
 ### Connect with me:
 
