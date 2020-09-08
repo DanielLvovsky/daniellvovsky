@@ -11,7 +11,7 @@
 - 🎯 2020 Goals: Contribute to Open Source projects and Improve web development skills.
 - 💡 Fun fact: I love playing video games, chess and creating illustrations.
 
-### Spotify Playing <img align="center" alt="spotify | Behance" width="48px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />
+### Music [<img align="center" alt="spotify | Spotify" width="48px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2aolsolnndhc7gontaq2ujdth&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=2aolsolnndhc7gontaq2ujdth&redirect=true)
 
 
@@ -100,6 +100,7 @@
 </details>
 
 [website]: https://daniellvovsky.com
+[spotify]: https://open.spotify.com/playlist/0Vc9v8CbKciq75y2x7dMP5
 [extension]: https://chrome.google.com/webstore/detail/new-tab-dial/jhcadhkfandbknkhibmfojeibbgjehmn?hl=en&authuser=0
 [behance]: https://www.behance.net/daniel_lvovsky
 [youtube]: https://youtube.com/codeSTACKr
