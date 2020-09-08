@@ -33,8 +33,8 @@
 [<img align="left" alt="React" width="48px" src="https://img.icons8.com/color/48/000000/react-native.png" />][website]
 [<img align="left" alt="Gatsby" width="48px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][website]
 [<img align="left" alt="Firebase" width="48px" src="https://img.icons8.com/color/48/000000/firebase.png" />][website]
-[<img align="left" alt="Node.js" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png" />][website]
-[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img align="left" alt="Node.js" width="48px" src="https://img.icons8.com/color/48/000000/nodejs.png" />][website]
+[<img align="left" alt="GitHub" width="48px" src="https://img.icons8.com/fluent/48/000000/github.png" />][website]
 <br />
 <br />
 
