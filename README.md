@@ -16,10 +16,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="daniellvovsky.com" width="48px" src="https://img.icons8.com/nolan/64/domain.png" />][website]
+[<img align="left" alt="daniellvovsky.com" width="48px" src="https://img.icons8.com/fluent/48/000000/domain.png" />][website]
 [<img align="left" alt="daniellvovsky | Behance" width="48px" src="https://img.icons8.com/color/48/000000/behance.png" />][behance]
-[<img align="left" alt="daniellvovsky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="daniellvovsky | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="daniellvovsky | LinkedIn" width="48px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="daniellvovsky | Instagram" width="48px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 <br />
 <br />
 
