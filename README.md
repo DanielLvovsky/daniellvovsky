@@ -1,15 +1,15 @@
 ### Hi there, I'm [Daniel Lvovsky][website] <img align="center" alt="Hello | Hello" width="36" src="https://img.icons8.com/material/36/000000/hello.png" /> 
 
-[![Website](https://img.shields.io/website?label=daniellvovsky.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://daniellvovsky.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=daniellvovsky.com&style=for-the-badge&url=https://daniellvovsky.com/)](https://daniellvovsky.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/daniel_lvovsky/)
 
 ## I'm a UI/Graphic Designer and Web Developer
 
-- 🎯 I’m currently improving my Chrome Extension: [DIAL][extension].
+- <img align="center" alt="Hello | Hello" width="20" src="https://img.icons8.com/color/20/000000/approve-and-update.png" /> I’m currently improving my Chrome Extension: [DIAL][extension].
 - 🎯 Learning React.js and Firebase.
 - 🎯 Planning on starting a Twitch channel.
 - 🎯 2020 Goals: Contribute to Open Source projects and Improve web development skills.
-- 💡 Fun fact: I love playing video games, chess and creating illustrations.
+- 💡 About me: I love playing video games, chess and creating illustrations.
 
 ### Music [<img align="center" alt="spotify | Spotify" width="48px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2aolsolnndhc7gontaq2ujdth&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=2aolsolnndhc7gontaq2ujdth&redirect=true)
