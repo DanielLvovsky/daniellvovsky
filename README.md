@@ -54,6 +54,7 @@
 ### <img align="center" alt="spotify | Spotify" width="36px" src="https://img.icons8.com/fluent/36/000000/project.png" /> Latest Projects 
 
 <!-- Project:START -->
+- [ElectroChat](https://electrochat.netlify.app/)
 - [nSlate](https://newslate.netlify.app/login)
 - [Personal Portfolio](https://daniellvovsky.com/)
 - [Artist Portfolio](https://steftheartist.netlify.app/)
