@@ -63,7 +63,7 @@
 - [QuickUnsplash - Unsplash Extension](https://chrome.google.com/webstore/detail/quick-unsplash/bcehcdieplbonpeognpgfkpldfknbgkh?hl=en-US)
 <!-- Project:END -->
 
-<img align="center" alt="spotify | Spotify" width="24px" src="https://img.icons8.com/fluent-systems-filled/24/000000/more.png" /> [more projects...](https://daniellvovsky.com/)
+<img align="center" alt="spotify | Spotify" width="24px" src="https://img.icons8.com/fluent-systems-filled/24/000000/more.png" /> [more projects...](https://github.com/DanielLvovsky?tab=repositories)
 
 ---
 
