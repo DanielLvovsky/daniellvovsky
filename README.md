@@ -80,8 +80,8 @@
 ### My Repos:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielLvovsky&repo=nSlate&theme=nord)](https://github.com/DanielLvovsky/nSlate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielLvovsky&repo=StefTheArtist&theme=nord)](https://github.com/DanielLvovsky/StefTheArtist)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielLvovsky&repo=QuickUnsplash&theme=nord)](https://github.com/DanielLvovsky/QuickUnsplash)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielLvovsky&repo=StefTheArtist&theme=nord)](https://github.com/DanielLvovsky/StefTheArtist)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielLvovsky&repo=DIAL&theme=nord)](https://github.com/DanielLvovsky/DIAL)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielLvovsky&repo=Listify&theme=nord)](https://github.com/DanielLvovsky/Listify)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielLvovsky&repo=InstagramBot&theme=nord)](https://github.com/DanielLvovsky/InstagramBot)
