@@ -11,11 +11,6 @@
 - 🎯 2020 Goals: Contribute to Open Source projects and improve web development skills.
 - 💡 About me: I love playing video games, chess and creating illustrations.
 
-### Music [<img align="center" alt="spotify | Spotify" width="48px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2aolsolnndhc7gontaq2ujdth&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=2aolsolnndhc7gontaq2ujdth&redirect=true)
-
-
-
 ### Connect with me:
 
 [<img align="left" alt="daniellvovsky.com" width="48px" src="https://img.icons8.com/fluent/48/000000/domain.png" />][website]
