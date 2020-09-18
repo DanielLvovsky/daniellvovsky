@@ -22,7 +22,6 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="48px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />][website]
 [<img align="left" alt="HTML5" width="48px" src="https://img.icons8.com/color/48/000000/html-5.png" />][website]
 [<img align="left" alt="CSS3" width="48px" src="https://img.icons8.com/color/48/000000/css3.png" />][website]
 [<img align="left" alt="SCSS" width="48px" src="https://img.icons8.com/color/48/000000/sass-avatar.png" />][website]
@@ -31,6 +30,7 @@
 [<img align="left" alt="Firebase" width="48px" src="https://img.icons8.com/color/48/000000/firebase.png" />][website]
 [<img align="left" alt="Node.js" width="48px" src="https://img.icons8.com/color/48/000000/nodejs.png" />][website]
 [<img align="left" alt="GitHub" width="48px" src="https://img.icons8.com/fluent/48/000000/github.png" />][website]
+[<img align="left" alt="Visual Studio Code" width="48px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />][website]
 <br />
 <br />
 
