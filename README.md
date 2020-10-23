@@ -6,7 +6,7 @@
 ## I'm a UI/Graphic Designer and Web Developer
 
 - <img align="center" alt="Hello | Hello" width="20" src="https://img.icons8.com/color/20/000000/approve-and-update.png" /> Currently working on my next big project
-- 🎯 Learning React.js and Firebase.
+- 🎯 Learning Web Development
 - 🎯 2020 Goals: Contribute to Open Source projects and improve web development skills.
 - 💡 About me: I love playing video games, chess and creating illustrations.
 
