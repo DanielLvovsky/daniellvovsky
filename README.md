@@ -46,7 +46,7 @@
 
 ---
 
-### <img align="center" alt="spotify | Spotify" width="36px" src="https://img.icons8.com/fluent/36/000000/project.png" /> Latest Projects 
+### Latest Projects 
 
 <!-- Project:START -->
 - [ElectroChat](https://electrochat.netlify.app/)
