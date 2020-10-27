@@ -11,7 +11,7 @@
 - 💡 About me: I love playing video games, chess and creating illustrations.
 
 ### Connect with me:
-[<img align="left" alt="Twitch | Twitch" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/twitch.svg" />][twitch]
+[<img align="left" alt="Twitch | Twitch" width="35px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/twitch.svg" />][twitch]
 [<img align="left" alt="Behance | Behance" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/behance.svg" />][behance]
 [<img align="left" alt="Linkedin | LinkedIn" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram | Instagram" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/instagram.svg" />][instagram]
