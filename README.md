@@ -30,8 +30,7 @@
 [<img align="left" alt="GitHub" width="35px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/vue-dot-js.svg" />][website]
 [<img align="left" alt="Firebase" width="30px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/firebase.svg" />][website]
 [<img align="left" alt="Node.js" width="35px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/node-dot-js.svg" />][website]
-[<img align="left" alt="GitHub" width="35px" src="https://simpleicons.org/icons/vue-dot-js.svg" />][website]
-[<img align="left" alt="Visual Studio Code" width="35px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][website]
+[<img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/visualstudiocode.svg" />][website]
 <br />
 <br />
 
