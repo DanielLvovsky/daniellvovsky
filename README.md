@@ -1,4 +1,4 @@
-### Hi there, I'm [Daniel Lvovsky][website] <img align="center" alt="Hello | Hello" width="36" src="https://img.icons8.com/material/36/000000/hello.png" /> 
+### Hi there, I'm [Daniel Lvovsky][website]
 
 [![Website](https://img.shields.io/website?label=daniellvovsky.com&style=for-the-badge&url=https://daniellvovsky.com/&logo=netlify&color=00C7B7)](https://daniellvovsky.com/)
 [![Instagram Follow](https://img.shields.io/badge/instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/daniel_lvovsky/)
