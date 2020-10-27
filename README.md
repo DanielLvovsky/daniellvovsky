@@ -35,10 +35,10 @@
 
 ### Design Tools:
 
-[<img align="left" alt="Adobe XD" width="48px" src="https://img.icons8.com/color/48/000000/adobe-xd.png" />][website]
-[<img align="left" alt="Adobe Illustrator" width="48px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" />][website]
-[<img align="left" alt="Affinity Designer" width="48px" src="https://img.icons8.com/ios-filled/50/000000/affinity-photo.png" />][website]
-[<img align="left" alt="Invision Studio" width="48px" src="https://img.icons8.com/windows/64/000000/invision.png" />][website]
+[<img align="left" alt="Adobe XD" width="40px" src="https://simpleicons.org/icons/adobexd.svg" />][website]
+[<img align="left" alt="Adobe Illustrator" width="40px" src="https://simpleicons.org/icons/adobeillustrator.svg" />][website]
+[<img align="left" alt="Affinity Designer" width="40px" src="https://simpleicons.org/icons/affinity.svg" />][website]
+[<img align="left" alt="Invision Studio" width="40px" src="https://simpleicons.org/icons/invision.svg" />][website]
 
 <br />
 <br />
