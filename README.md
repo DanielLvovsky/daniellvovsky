@@ -37,10 +37,10 @@
 
 ### Design Tools:
 
-[<img align="left" alt="Adobe XD" width="40px" src="https://simpleicons.org/icons/adobexd.svg" />][website]
-[<img align="left" alt="Adobe Illustrator" width="40px" src="https://simpleicons.org/icons/adobeillustrator.svg" />][website]
-[<img align="left" alt="Affinity Designer" width="40px" src="https://simpleicons.org/icons/affinity.svg" />][website]
-[<img align="left" alt="Invision Studio" width="40px" src="https://simpleicons.org/icons/invision.svg" />][website]
+[<img align="left" alt="Adobe XD" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/adobexd.svg" />][website]
+[<img align="left" alt="Adobe Illustrator" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/adobeillustrator.svg" />][website]
+[<img align="left" alt="Affinity Designer" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/affinitydesigner.svg" />][website]
+[<img align="left" alt="Invision Studio" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/invision.svg" />][website]
 
 <br />
 <br />
