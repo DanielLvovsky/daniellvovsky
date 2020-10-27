@@ -22,13 +22,14 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="HTML5" width="35px" src="https://simpleicons.org/icons/html5.svg" />][website]
-[<img align="left" alt="CSS3" width="35px" src="https://simpleicons.org/icons/css3.svg" />][website]
-[<img align="left" alt="SCSS" width="35px" src="https://simpleicons.org/icons/sass.svg" />][website]
-[<img align="left" alt="JavaScript" width="35px" src="https://simpleicons.org/icons/javascript.svg" />][website]
-[<img align="left" alt="React" width="35px" src="https://simpleicons.org/icons/react.svg" />][website]
-[<img align="left" alt="Firebase" width="35px" src="https://simpleicons.org/icons/firebase.svg" />][website]
-[<img align="left" alt="Node.js" width="35px" src="https://simpleicons.org/icons/node-dot-js.svg" />][website]
+[<img align="left" alt="HTML5" width="35px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/html5.svg" />][website]
+[<img align="left" alt="CSS3" width="35px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/css3.svg" />][website]
+[<img align="left" alt="SCSS" width="35px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/sass.svg" />][website]
+[<img align="left" alt="JavaScript" width="35px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/javascript.svg" />][website]
+[<img align="left" alt="React" width="35px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/react.svg" />][website]
+[<img align="left" alt="GitHub" width="35px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/vue-dot-js.svg" />][website]
+[<img align="left" alt="Firebase" width="30px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/firebase.svg" />][website]
+[<img align="left" alt="Node.js" width="35px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/node-dot-js.svg" />][website]
 [<img align="left" alt="GitHub" width="35px" src="https://simpleicons.org/icons/vue-dot-js.svg" />][website]
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][website]
 <br />
