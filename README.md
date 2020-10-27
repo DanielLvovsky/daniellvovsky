@@ -11,11 +11,10 @@
 - 💡 About me: I love playing video games, chess and creating illustrations.
 
 ### Connect with me:
-
-[<img align="left" alt="daniellvovsky.com" width="48px" src="https://img.icons8.com/fluent/48/000000/domain.png" />][website]
-[<img align="left" alt="daniellvovsky | Behance" width="48px" src="https://img.icons8.com/color/48/000000/behance.png" />][behance]
-[<img align="left" alt="daniellvovsky | LinkedIn" width="48px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="daniellvovsky | Instagram" width="48px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Twitch | Twitch" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/twitch.svg" />][twitch]
+[<img align="left" alt="Behance | Behance" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/behance.svg" />][behance]
+[<img align="left" alt="Linkedin | LinkedIn" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram | Instagram" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/instagram.svg" />][instagram]
 <br />
 <br />
 
@@ -63,7 +62,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLvovsky&layout=compact)](https://github.com/DanielLvovsky)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLvovsky&theme=nord&layout=compact)](https://github.com/DanielLvovsky)
 
 
 
@@ -83,7 +82,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielLvovsky&repo=QuickUnsplash&theme=nord)](https://github.com/DanielLvovsky/QuickUnsplash)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielLvovsky&repo=nSlate&theme=nord)](https://github.com/DanielLvovsky/nSlate)
 
-
+[twitch]: https://www.twitch.tv/zyb0_
 [website]: https://daniellvovsky.com
 [spotify]: https://open.spotify.com/playlist/0Vc9v8CbKciq75y2x7dMP5
 [extension]: https://chrome.google.com/webstore/detail/new-tab-dial/jhcadhkfandbknkhibmfojeibbgjehmn?hl=en&authuser=0
