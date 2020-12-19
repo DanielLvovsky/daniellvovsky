@@ -49,13 +49,13 @@
 ### Latest Projects 
 
 <!-- Project:START -->
+- [VSCode Themes](https://vscodethemes.netlify.app/)
+- [RealTalk](https://real-talk.netlify.app/login)
+- [Lineup](https://line-up.vercel.app/)
 - [ElectroChat](https://electrochat.netlify.app/)
 - [nSlate](https://newslate.netlify.app/login)
 - [Personal Portfolio](https://daniellvovsky.com/)
 - [Artist Portfolio](https://steftheartist.netlify.app/)
-- [DIAL - Custom New Tab](https://chrome.google.com/webstore/detail/new-tab-dial/jhcadhkfandbknkhibmfojeibbgjehmn?hl=en&authuser=0)
-- [Listify - ToDo List for Chrome](https://chrome.google.com/webstore/detail/todo-listlistify/mlighlkbfofpeoeolijmolchjdifcbpo?hl=en&authuser=0)
-- [QuickUnsplash - Unsplash Extension](https://chrome.google.com/webstore/detail/quick-unsplash/bcehcdieplbonpeognpgfkpldfknbgkh?hl=en-US)
 <!-- Project:END -->
 
 [more projects...](https://github.com/DanielLvovsky?tab=repositories)
