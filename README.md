@@ -88,7 +88,7 @@
 [extension]: https://chrome.google.com/webstore/detail/new-tab-dial/jhcadhkfandbknkhibmfojeibbgjehmn?hl=en&authuser=0
 [behance]: https://www.behance.net/daniel_lvovsky
 [youtube]: https://www.youtube.com/channel/UC2b9MA7P_yaopMSdBT89iqQ
-[instagram]: https://instagram.com/daniel.lvovsky
+[instagram]: https://instagram.com/daniel_lvovsky
 [linkedin]: https://linkedin.com/in/daniel-lvovsky-b68614183
 [webdevplaylist]: https://daniellvovsky.com/
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
