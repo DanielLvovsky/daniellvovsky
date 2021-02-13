@@ -11,7 +11,7 @@
 - 💡 About me: I love playing video games, chess and creating illustrations.
 
 ### Connect with me:
-[<img align="left" alt="Twitch | Twitch" width="35px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/twitch.svg" />][twitch]
+[<img align="left" alt="Youtube | Youtube" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Behance | Behance" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/behance.svg" />][behance]
 [<img align="left" alt="Linkedin | LinkedIn" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram | Instagram" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/instagram.svg" />][instagram]
@@ -87,8 +87,8 @@
 [spotify]: https://open.spotify.com/playlist/0Vc9v8CbKciq75y2x7dMP5
 [extension]: https://chrome.google.com/webstore/detail/new-tab-dial/jhcadhkfandbknkhibmfojeibbgjehmn?hl=en&authuser=0
 [behance]: https://www.behance.net/daniel_lvovsky
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/daniel_lvovsky
+[youtube]: https://www.youtube.com/channel/UC2b9MA7P_yaopMSdBT89iqQ
+[instagram]: https://instagram.com/daniel.lvovsky
 [linkedin]: https://linkedin.com/in/daniel-lvovsky-b68614183
 [webdevplaylist]: https://daniellvovsky.com/
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
