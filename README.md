@@ -6,7 +6,7 @@
 ## I'm a Graphic Designer/3D Artist and Web Developer
 
 ### Connect with me:
-[<img align="left" alt="Youtube | Youtube" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Youtube | Youtube" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Behance | Behance" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/behance.svg" />][behance]
 [<img align="left" alt="Linkedin | LinkedIn" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram | Instagram" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/instagram.svg" />][instagram]
@@ -78,11 +78,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielLvovsky&repo=nSlate&theme=nord)](https://github.com/DanielLvovsky/nSlate)
 
 [twitch]: https://www.twitch.tv/zyb0_
-[website]: https://daniellvovsky.com
+[website]: https://dansky3d.netlify.app/
 [spotify]: https://open.spotify.com/playlist/0Vc9v8CbKciq75y2x7dMP5
 [extension]: https://chrome.google.com/webstore/detail/new-tab-dial/jhcadhkfandbknkhibmfojeibbgjehmn?hl=en&authuser=0
-[behance]: https://www.behance.net/daniel_lvovsky
-[youtube]: https://www.youtube.com/channel/UC2b9MA7P_yaopMSdBT89iqQ
+[behance]: https://www.behance.net/daniellvovsky
+[twitter]: https://twitter.com/dansky3d
 [instagram]: https://instagram.com/dansky3d
 [linkedin]: https://linkedin.com/in/daniel-lvovsky-b68614183
 [webdevplaylist]: https://daniellvovsky.com/
