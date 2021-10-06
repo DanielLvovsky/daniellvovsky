@@ -1,7 +1,7 @@
 ### Hi there, I'm [Daniel Lvovsky][website]
 
-[![Website](https://img.shields.io/website?label=daniellvovsky.com&style=for-the-badge&url=https://daniellvovsky.com/&logo=netlify&color=00C7B7)](https://daniellvovsky.com/)
-[![Instagram Follow](https://img.shields.io/badge/instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/daniel_lvovsky/)
+[![Website](https://img.shields.io/website?label=daniellvovsky.com&style=for-the-badge&url=https://daniellvovsky.com/&logo=netlify&color=00C7B7)](https://dansky3d.netlify.app/)
+[![Instagram Follow](https://img.shields.io/badge/instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/dansky3d/)
 
 ## I'm a UI/Graphic Designer and Web Developer
 
