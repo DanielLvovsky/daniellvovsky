@@ -3,12 +3,7 @@
 [![Website](https://img.shields.io/website?label=dansky3d.com&style=for-the-badge&url=https://dansky3d.netlify.app/&logo=netlify&color=00C7B7)](https://dansky3d.netlify.app/)
 [![Instagram Follow](https://img.shields.io/badge/instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/dansky3d/)
 
-## I'm a UI/Graphic Designer and Web Developer
-
-- 🎯 Currently working on my next big project
-- 🎯 Learning Web Development
-- 🎯 2020 Goals: Contribute to Open Source projects and improve web development skills.
-- 💡 About me: I love playing video games, chess and creating illustrations.
+## I'm a Graphic Designer/3D Artist and Web Developer
 
 ### Connect with me:
 [<img align="left" alt="Youtube | Youtube" width="40px" src="https://github.com/DanielLvovsky/daniellvovsky/blob/master/icons/youtube.svg" />][youtube]
